@@ -1,4 +1,4 @@
-name: PR metadata annotation
+name: Test_javascript_repo
 
 on: 
   pull_request:
